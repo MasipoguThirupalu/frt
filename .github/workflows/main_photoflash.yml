@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'photoflash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_351680ECC9B240D9AC17274C4D33F746 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B46E25FF772421F80DCDA68E5ED2750 }}
           package: .
