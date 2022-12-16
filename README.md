@@ -40,4 +40,10 @@ https://user-images.githubusercontent.com/113666653/208028726-f8de36bc-b04e-4111
 ![Screenshot 2022-12-01 190202](https://user-images.githubusercontent.com/113666653/205065942-290781d1-a5ad-4320-a626-427d92d96836.jpg)
 
 ## Azure Services Used
+Used Services :
+
+1.App Service
+
+2.Static Web App
+
 ![Screenshot 2022-12-01 185936](https://user-images.githubusercontent.com/113666653/205065308-75413e26-a19f-4e58-8ffc-70ef5dd54ed0.jpg)
