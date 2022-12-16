@@ -14,11 +14,19 @@ Problem Statement/Opportunity : Every One has different photographers in their w
 
 Project Description : Best Photographers Will Take Best Photos.
 
-Primary Azure Technology : Static Web Apps, App Service
+Azure Services Used : Static Web Apps, App Service
 
-Static Web App URL :https://jolly-tree-0294ded10.2.azurestaticapps.net 
+Static Web App URL : https://jolly-tree-0294ded10.2.azurestaticapps.net 
 
-App Services URL :https://photoflash.azurewebsites.net
+App Services URL : https://photoflash.azurewebsites.net
+
+Demo Video URL : 
+
+
+
+https://user-images.githubusercontent.com/113666653/208028726-f8de36bc-b04e-4111-901b-fbf3e9eb714d.mp4
+
+
 
 ## My Website Link : https://jolly-tree-0294ded10.2.azurestaticapps.net/
 
