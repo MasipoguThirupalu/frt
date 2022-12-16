@@ -20,13 +20,9 @@ Static Web App URL : https://jolly-tree-0294ded10.2.azurestaticapps.net
 
 App Services URL : https://photoflash.azurewebsites.net
 
-Demo Video URL : 
-
-
+Demo Video : 
 
 https://user-images.githubusercontent.com/113666653/208028726-f8de36bc-b04e-4111-901b-fbf3e9eb714d.mp4
-
-
 
 ## My Website Link : https://jolly-tree-0294ded10.2.azurestaticapps.net/
 
