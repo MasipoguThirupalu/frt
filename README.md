@@ -14,7 +14,7 @@ Problem Statement/Opportunity : Every One has different photographers in their w
 
 Project Description : Best Photographers Will Take Best Photos.
 
-Azure Services Used : Static Web Apps, App Service
+Azure Technologies Used : Static Web App, App Service
 
 Static Web App URL : https://jolly-tree-0294ded10.2.azurestaticapps.net 
 
@@ -24,7 +24,7 @@ Demo Video :
 
 https://user-images.githubusercontent.com/113666653/208028726-f8de36bc-b04e-4111-901b-fbf3e9eb714d.mp4
 
-## My Website Link : https://jolly-tree-0294ded10.2.azurestaticapps.net/
+## My Project Website Demo Link : https://jolly-tree-0294ded10.2.azurestaticapps.net/
 
 ## Home
 ![Screenshot 2022-12-01 190132](https://user-images.githubusercontent.com/113666653/205065848-a10ef4ee-c93a-4942-8b7a-b8b548f4f3ae.jpg)
@@ -39,11 +39,13 @@ https://user-images.githubusercontent.com/113666653/208028726-f8de36bc-b04e-4111
 ![Screenshot 2022-12-01 190239](https://user-images.githubusercontent.com/113666653/205065927-ffec9b7c-b677-405e-9428-30c16dfa2257.jpg)
 ![Screenshot 2022-12-01 190202](https://user-images.githubusercontent.com/113666653/205065942-290781d1-a5ad-4320-a626-427d92d96836.jpg)
 
-## Azure Services Used
-Used Services :
-
-1.App Service
-
-2.Static Web App
+## Azure Technologies Used :
 
 ![Screenshot 2022-12-01 185936](https://user-images.githubusercontent.com/113666653/205065308-75413e26-a19f-4e58-8ffc-70ef5dd54ed0.jpg)
+
+## Static Web App Technology
+![Screenshot 2022-12-24 170009](https://user-images.githubusercontent.com/113666653/209434023-e34eda9b-771c-4f5b-953a-22a7295fa394.jpg)
+
+## App Service Technology
+![Screenshot 2022-12-24 170333](https://user-images.githubusercontent.com/113666653/209434052-194f79b3-7251-41f0-9c93-0628a807a86c.jpg)
+
